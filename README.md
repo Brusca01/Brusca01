@@ -1,7 +1,8 @@
 <h1  align="center">Hi 👋, I'm Paolo Bruscagin
 <h3  align="left">I'm Paolo Bruscagin, 23 years old, passionate about AI, Machine Learning, Software Engineering and Cybersecurity. I deal with web, desktop and mobile development.</h3>
 
-<p  align="left">  <img  src="https://komarev.com/ghpvc/?username=Brusca01"  alt="Brusca01"  />  </p>
+<p  align="left">  <img  src="https://komarev.com/ghpvc/?username=Brusca01"  alt="Brusca01"  /> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/1200px-Flag_of_Italy.svg.png" alt="Bandiera italiana" width="30"/> 🇮🇹 </p> 
+
 
 - 🎓 Bachelor's Degree in Computer Science @uninsubria
   - **Experimental Thesis:** Quantitative and Qualitative Evaluation Metrics for Data Visualization in Infographics
@@ -34,3 +35,7 @@
 
 - <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brusca01&layout=compact&hide=html,jupyter%20notebook,css,shaderlab"  alt="Brusca01"/>
 - <img  align="center" src="https://github-readme-stats.vercel.app/api?username=Brusca01&show_icons=true" width="425px"  alt="Brusca01"  />
+
+
+
+
