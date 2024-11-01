@@ -18,9 +18,6 @@
 ![CSS](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&color=1572B6)
 ![HTML](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&color=E34F26)
 ![Windows](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&color=0078D6)
-![Prolog](https://img.shields.io/badge/Code-Prolog-informational?style=flat&logo=prolog&color=8C1F1F)
-![Lisp](https://img.shields.io/badge/Code-Lisp-informational?style=flat&logo=lisp&color=3FB68B)
-![R](https://img.shields.io/badge/Code-R-informational?style=flat&logo=r&color=276DC3)
 ![Tableau](https://img.shields.io/badge/Tool-Tableau-informational?style=flat&logo=tableau&color=E97627)
 ![Jupyter Notebook](https://img.shields.io/badge/Tool-Jupyter%20Notebook-informational?style=flat&logo=jupyter&color=F37626)
 ![Git](https://img.shields.io/badge/Version%20Control-Git-informational?style=flat&logo=git&color=F05032)
@@ -34,6 +31,18 @@
   - **My Project**: [VaxCenter_B](https://github.com/Brusca01/VaxCenter_B)
 
 - 👨🏼‍🎓 Master's Degree in Computer Science @uninsubria
+  - ![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=3776AB)
+![Java](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&color=007396)
+![Lisp](https://img.shields.io/badge/Code-Lisp-informational?style=flat&logo=lisp&color=3FB68B)
+![Tableau](https://img.shields.io/badge/Tool-Tableau-informational?style=flat&logo=tableau&color=E97627)
+![R](https://img.shields.io/badge/Code-R-informational?style=flat&logo=r&color=276DC3)
+![Prolog](https://img.shields.io/badge/Code-Prolog-informational?style=flat&logo=prolog&color=8C1F1F)
+![NoSQL](https://img.shields.io/badge/Tool-NoSQL-informational?style=flat&logo=nosql&color=4EA94B)
+![MongoDB](https://img.shields.io/badge/Tool-MongoDB-informational?style=flat&logo=mongodb&color=47A248)
+
+
+
+   
 - ⚽ Italian Football Referee @aiagallarate
 - 🌐 **Web Master** Sezione A.I.A. di Gallarate https://aiagallarate.com/
   
