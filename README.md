@@ -25,6 +25,8 @@
 ![Jupyter Notebook](https://img.shields.io/badge/Tool-Jupyter%20Notebook-informational?style=flat&logo=jupyter&color=F37626)
 ![Git](https://img.shields.io/badge/Version%20Control-Git-informational?style=flat&logo=git&color=F05032)
 ![Maven](https://img.shields.io/badge/Build-Maven-informational?style=flat&logo=apachemaven&color=C71A36)
+![Colab](https://img.shields.io/badge/Tool-Colab-informational?style=flat&logo=googlecolab&color=F9AB00)
+
 
   - **My Project**: [VaxCenter_B](https://github.com/Brusca01/VaxCenter_B)
 
