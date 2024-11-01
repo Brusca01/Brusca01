@@ -27,6 +27,8 @@
 ![Maven](https://img.shields.io/badge/Build-Maven-informational?style=flat&logo=apachemaven&color=C71A36)
 ![Colab](https://img.shields.io/badge/Tool-Colab-informational?style=flat&logo=googlecolab&color=F9AB00)
 ![Excel](https://img.shields.io/badge/Tool-Excel-informational?style=flat&logo=microsoft-excel&color=217346)
+![LaTeX](https://img.shields.io/badge/Tool-LaTeX-informational?style=flat&logo=latex&color=008080)
+
 
 
   - **My Project**: [VaxCenter_B](https://github.com/Brusca01/VaxCenter_B)
