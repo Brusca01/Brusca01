@@ -1,16 +1,25 @@
-## Hi there 👋
+# Ciao! 👋 Sono uno studente di MSc in Computer Science
 
-<!--
-**Brusca01/Brusca01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an MSc Computer Science student at the University of Insubria. I am passionate about software engineering, machine learning, cybersecurity, and artificial intelligence. I am always seeking new challenges and opportunities to grow in the field of technology!
 
-Here are some ideas to get you started:
+## 💻 Tech Arsenal
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Linguaggi di programmazione**: Python, Java, C++
+- **Frameworks**: TensorFlow, PyTorch, Flask
+- **Strumenti**: Git, Docker, Jupyter Notebook
+- **Database**: MySQL, MongoDB
+- **Sistemi operativi**: Linux, Windows
+
+## 📊 GitHub Analytics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Brusca01&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brusca01&layout=compact&theme=radical)
+
+*Personalizza il tuo username sopra per visualizzare le tue statistiche GitHub!*
+
+## 🤝 Let's Connect
+
+- **LinkedIn**: [Il tuo profilo LinkedIn](https://www.linkedin.com/in/paolobruscagin/)
+- **Email**: bruscagin01@gmail.com
+
+I'm always open to connecting and collaborating on interesting projects. Feel free to reach out to me!
