@@ -40,6 +40,16 @@
 - <img align="center" src="https://github-readme-stats.vercel.app/api?username=Brusca01&show_icons=true&bg_color=000000&text_color=ffffff" width="425px" alt="Brusca01" />
 
 
+- ![ORCID](https://img.shields.io/badge/ORCID-000000?style=flat&logo=orcid&logoColor=A8B400)
+![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat&logo=google-scholar&logoColor=ffffff)
+![ResearchGate](https://img.shields.io/badge/ResearchGate-00BFAE?style=flat&logo=researchgate&logoColor=ffffff)
+- My Scientific Articles publications:
+  - **Bridging Objective and Subjective Evaluations in Data Visualization: a Crossover Experiment**
+    - https://dl.acm.org/doi/abs/10.1145/3605390.3605408
+
+
+
+
 
 
 
