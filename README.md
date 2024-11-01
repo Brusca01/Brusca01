@@ -44,7 +44,7 @@
 
    
 - ⚽ Italian Football Referee @aiagallarate
-- 🌐 **Web Master** Sezione A.I.A. di Gallarate https://aiagallarate.com/ ![WordPress](https://img.shields.io/badge/Tool-WordPress-informational?style=flat&logo=wordpress&color=21759B)
+- 🌐 **Web Master** Sezione A.I.A. di Gallarate https://aiagallarate.com/ ![WordPress](https://img.shields.io/badge/Tool-WordPress-informational?style=flat&logo=wordpress&color=21759B) 
   
 
 - <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brusca01&layout=normal&bg_color=000000&text_color=ffffff&count_private=true" alt="Brusca01" width="300" />
