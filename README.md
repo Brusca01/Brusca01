@@ -1,4 +1,4 @@
-# Ciao! 👋 Sono uno studente di MSc in Computer Science
+# Msc Computer Science Student at the University of Insubria
 
 I'm an MSc Computer Science student at the University of Insubria. I am passionate about software engineering, machine learning, cybersecurity, and artificial intelligence. I am always seeking new challenges and opportunities to grow in the field of technology!
 
@@ -19,7 +19,7 @@ I'm an MSc Computer Science student at the University of Insubria. I am passiona
 
 ## 🤝 Let's Connect
 
-- **LinkedIn**: [Il tuo profilo LinkedIn](https://www.linkedin.com/in/paolobruscagin/)
+- **LinkedIn**: https://www.linkedin.com/in/paolobruscagin/
 - **Email**: bruscagin01@gmail.com
 
 I'm always open to connecting and collaborating on interesting projects. Feel free to reach out to me!
