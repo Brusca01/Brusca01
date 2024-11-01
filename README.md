@@ -35,7 +35,7 @@
 - 🌐 **Web Master** Sezione A.I.A. di Gallarate https://aiagallarate.com/
   
 
-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brusca01&layout=compact&hide=html,jupyter%20notebook,css,shaderlab&bg_color=000000&text_color=ffffff" alt="Brusca01" />
+- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brusca01&layout=normal&bg_color=000000&text_color=ffffff&count_private=true" alt="Brusca01" width="300" />
 
 - <img align="center" src="https://github-readme-stats.vercel.app/api?username=Brusca01&show_icons=true&bg_color=000000&text_color=ffffff" width="425px" alt="Brusca01" />
 
