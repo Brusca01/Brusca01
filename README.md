@@ -43,7 +43,6 @@
 
 
    
-- ⚽ Italian Football Referee @aiagallarate
 - 🌐 **Web Master** Sezione A.I.A. di Gallarate https://aiagallarate.com/ ![WordPress](https://img.shields.io/badge/Tool-WordPress-informational?style=flat&logo=wordpress&color=21759B) 
   
 
