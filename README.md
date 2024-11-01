@@ -1,5 +1,5 @@
 <h1  align="center">Hi 👋, I'm Paolo Bruscagin
-<h3  align="left">I'm Paolo Bruscagin, 23 years old, passionate about AI, Machine Learning, Software Engineering and Cybersecurity. I deal with web, desktop and mobile development.</h3>
+<h3  align="left">I'm Paolo Bruscagin, 23 years old, passionate about AI, Machine Learning, Software Engineering and Cybersecurity. I deal with web, desktop and mobile development and everything related to data!</h3>
 
 <p  align="center">  <img  src="https://komarev.com/ghpvc/?username=Brusca01"  alt="Brusca01"  /> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/1200px-Flag_of_Italy.svg.png" alt="Bandiera italiana" width="30"/> 🇮🇹 </p> 
 
