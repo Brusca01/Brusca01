@@ -4,7 +4,7 @@
 <p  align="center">  <img  src="https://komarev.com/ghpvc/?username=Brusca01"  alt="Brusca01"  /> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/1200px-Flag_of_Italy.svg.png" alt="Bandiera italiana" width="30"/> </p> 
 
 
-- 🎓 Bachelor's Degree in Computer Science @uninsubria
+- 🎓 Bachelor's Degree in Computer Science @Uninsubria
   - **Experimental Thesis:** Quantitative and Qualitative Evaluation Metrics for Data Visualization in Infographics
   - ![Java](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&color=007396)
 ![C](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&color=A8B400)
@@ -30,7 +30,7 @@
 
   - **My Project**: [VaxCenter_B](https://github.com/Brusca01/VaxCenter_B)
 
-- 👨🏼‍🎓 Master's Degree in Computer Science @uninsubria
+- 👨🏼‍🎓 Master's Degree in Computer Science @Uninsubria
   - ![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=3776AB)
 ![Java](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&color=007396)
 ![Lisp](https://img.shields.io/badge/Code-Lisp-informational?style=flat&logo=lisp&color=3FB68B)
